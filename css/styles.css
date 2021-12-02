@@ -1,0 +1,144 @@
+body{
+  color: #381d2a;
+  margin: 0;
+  text-align: center;
+  font-family: 'Alice', serif;
+}
+
+h1 {
+  color: #381d2a;
+  font-size: 5.625rem;
+  margin: 30px auto 0 auto;
+  font-family: 'Sacramento', sans-serif;
+}
+
+h2 {
+  color: #381d2a;
+  margin-top: 20px;
+  font-family: 'Alice', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #828967;
+  font-size: 1.2rem;
+  font-family: 'Alice', sans-serif;
+}
+
+p {
+    line-height: 2;
+
+}
+
+hr {
+  border: dotted #b5b291 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+a {
+  color: #828967;
+  font-family: 'Alice', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #fddf9b;
+
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.top-container {
+  background-color: #b5b291;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+.bottom-container {
+  background-color: #b5b291;
+  padding: 50px 0 20px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 70px;
+  top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 60px;
+  bottom: 360px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.tennis-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.art-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.alice-img {
+  margin-top: 30px;
+
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+
+.copyright {
+  font-size: 0.72rem;
+  padding: 20px 0;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Alice', serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #b5b291;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #828967;
+  text-decoration: none;
+}
